@@ -8,6 +8,8 @@ body {
   font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-image:url(../img/image.jpg);
+  background-attachment: fixed;
 }
 
 div {
