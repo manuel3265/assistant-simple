@@ -10,7 +10,6 @@ body {
   padding: 0;
   background-image:url(../img/image.png);
   background-attachment: fixed;
-  position: absolute;
 }
 
 div {
